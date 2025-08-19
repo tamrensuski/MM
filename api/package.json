@@ -1,0 +1,9 @@
+{
+  "name": "cloudinary-public-quickstart",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "cloudinary": "^1.41.3"
+  }
+}
